@@ -1,4 +1,5 @@
 A simple web application that allows users to manage their daily expenses with the visualization of chart with year-wise filteration.
+Tech stack used :- HTML , CSS . JAVASCRIPT , REACTJS
 
 This project was bootstrapped with Create React App (https://github.com/facebook/create-react-app).
 
